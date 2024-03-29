@@ -1,6 +1,17 @@
 # Autonomous Robot Navigation using NAV2
 
+## Author
 
+|Name|ID|Email|
+|:---:|:---:|:---:|
+|Shantanu Parab|119208625|sparab@umd.edu|
+
+
+## Dependencies
+
+Ubuntu 20.04
+
+ROS2 Galactic
 
 ## Setup
 
@@ -14,7 +25,7 @@ cd ~/jde_ws/src
 Clone the reposiory
 
 ```sh
-git clone https://github.com/shantanuparabumd/turtlebot3_project3.git
+git clone https://github.com/shantanuparabumd/jde_robot.git
 ```
 
 Source ROS (Enable ROS commands)
