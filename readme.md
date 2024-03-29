@@ -98,3 +98,6 @@ It will take 25 seconds for everything to setup and then the robot will start mo
 
 
 ## Demonstration
+
+https://github.com/shantanuparabumd/jde_robot/assets/112659509/6d101616-8db0-472f-84bf-e8ff499d2cbf
+
